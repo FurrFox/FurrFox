@@ -1,5 +1,5 @@
-- Hi, I’m @FurrFox
-- I’m interested in Computers
+- Hi, I’m James
+- I’m interested in Computers and I'm a furry
 - My discord is JAMEZ WULF#2106
 
 <!---
